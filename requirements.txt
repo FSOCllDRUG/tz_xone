@@ -3,3 +3,5 @@ djangorestframework
 drf-spectacular
 requests
 psycopg2-binary
+djangorestframework-simplejwt
+beautifulsoup4
